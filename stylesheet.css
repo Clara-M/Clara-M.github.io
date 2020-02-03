@@ -1,0 +1,50 @@
+h1{
+		color: #AD2204;
+		text-align: center;  
+		font-size:35px;      	
+	}
+	body {
+		color: #333;
+		background-color: #F6F6F6;
+		font-size: 16px;
+		margin-left: 120px;
+		font-family: sans-serif;
+	}
+	
+	a
+	{
+	color: #AD2204;
+	}
+	
+	
+th
+{
+border: solid 2px #000;
+font-size: 1.0em;
+
+}
+
+td
+{
+padding: 5px;
+border: solid 2px #000;
+}
+
+table
+{border-collapse: collapse;
+width: 30%;
+margin: 10 px 0 10px 10px;
+font-family: 'Montserrat', sans-serif;
+font-size: 0.8em;
+}
+	
+	
+	.footer
+	
+{
+font-size:14px;
+font-family:'Montserrat', sans-serif;
+}
+
+
+	
